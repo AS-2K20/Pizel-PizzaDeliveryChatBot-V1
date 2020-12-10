@@ -12,7 +12,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
 
 1. User Cannot Enter WhiteSpaces alone. WhiteSpaces have been trimmed.
 2. User Cannot Give 1 length character. 
-### 3. UserID/LoginID Validations:
+#### 3. UserID/LoginID Validations:
  * First character should be an alphabet
  * A digit must occur at least once
  * A Lower case letter must occur at least once
