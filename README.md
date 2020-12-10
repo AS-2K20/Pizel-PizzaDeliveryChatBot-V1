@@ -1,5 +1,7 @@
 # Pizel, The PizzaDeliveryChatBot V1
 
+![a small bg](https://user-images.githubusercontent.com/66553883/101830306-52f7d080-3b5a-11eb-986a-46c3ff6225a1.png)
+
 Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel is developed using Full Stack Web Technologies.
 
 ## Technologies Used:
