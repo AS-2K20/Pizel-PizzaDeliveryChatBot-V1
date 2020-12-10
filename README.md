@@ -12,10 +12,22 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
 
 1. User Cannot Enter WhiteSpaces alone. WhiteSpaces have been trimmed.
 2. User Cannot Give 1 length character. 
-#### 3. UserID/LoginID Validations:
- * First character should be an alphabet
- * A digit must occur at least once
- * A Lower case letter must occur at least once
- * An Upper case letter must occur at least once
- * No Whitespace allowed in the entire string
- * From second character, there should be at least 4 places and maximum of 10 places
+#### 3. UserID/LoginID :
+ * First character should be an alphabet.
+ * A digit must occur at least once.
+ * A Lower case letter must occur at least once.
+ * An Upper case letter must occur at least once.
+ * No Whitespace allowed in the entire string.
+ * From second character, there should be at least 4 characters and maximum of 10 characters.
+ #### 4. Login Password :
+ * A digit must occur at least once.
+ * A Lower case letter must occur at least once.
+ * An Upper case letter must occur at least once.
+ * A Special character must occur at least once.
+ * No Whitespace allowed in the entire string.
+ * There should be at least 5 characters and maximum of 20 characters.
+ #### 5. A Basic Email Validation.
+ #### 6. Contact Number/ Mobile Number of user should have Exactly 10 numbers.
+ #### 7. User Name should contain minimum of 2 characters and no numbers.
+ 
+ 
