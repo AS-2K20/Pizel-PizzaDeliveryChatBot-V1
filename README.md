@@ -111,7 +111,7 @@ Kindly follow the given Instructions to avoid any errors:
    
    The above is the objective of this module:
    
-  * (Like Bulk Orders, since I know the details of the User by their User ID) I am asking you directly and only about the Issue. 
+  * (Like Bulk Orders, since I know the details of you by your User ID) I am asking you directly and only about the Issue. 
   
   * You have to click either '_Issue with Ordering Pizza_' or '_Issue with Ordered Pizza_'
   
