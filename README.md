@@ -19,7 +19,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  * An Upper case letter must occur at least once.
  * No Whitespace allowed in the entire string.
  * From second character, there should be at least 4 characters and maximum of 10 characters.
- #### 4. Login Password :
+ #### 4. User Login Password :
  * A digit must occur at least once.
  * A Lower case letter must occur at least once.
  * An Upper case letter must occur at least once.
@@ -30,4 +30,38 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  #### 6. Contact Number/ Mobile Number of user should have Exactly 10 numbers.
  #### 7. User Name should contain minimum of 2 characters and no numbers.
  
+ ## Features:
+ ## Note:
  
+ Auto Focus or Auto Scroll is yet to implemented in this application. So, Kindly **SCROLL DOWN THE SCROLL BAR TO THE BOTTOM to see the latest messages/chats**. This issue would be fixed soon.   
+ 
+ ## Testing :
+ 
+ For Testing Purposes, If you want to speed up the process of testing, then kindly follow the given Instructions:
+
+#### 1. City :
+* Select any one among the given List of Cities (_Except 'Others'_)
+#### 2. SignUp Module: (If you would like, you can use an existing Login Credentials which is given below and you can skip this step !)
+* Enter any name(_Must be of atleast 2 characters_ ; preferably 10 charcters at maximum; space is allowed)
+* Enter a _Exact_ 10 digit number.
+* Enter a sample email like jd@gmail.com or something (_EMAIL IS UNIQUE_ which means you cannot have 2 accounts with same email)
+* As of Now, Address doesn't have any validations. So you can enter some 'street name, city name - pincode' etc.
+* In the Next Step, If you want to change the address, you can do it else click on the button 'Yes, I confirm'. 
+* Create a ***User ID*** like **jd2K02 or saM1996 or gkK123** etc
+* Create a ***Login Password*** like **jd@2K02 or saM@1996 or gkK@234** etc
+#### 3. Login Module:
+* Existing UserID/Login ID : __as2K20__  ; Existing Login Password: __as@2K20__ ;
+* Kindly Use the Above Credentials or the credentials which you have used in SignUp Module to _Login_
+* You can select any one among the given 4 options:
+ * __Check My Order__:
+   * You must _Make a New Order_ to get a Order ID ( or you can use an exisiting Order ID such as __72721__)
+   * Once you entered a valid Order ID, the following details would be displayed:
+    * All the Following Details would be displayed __Per 1 Order__
+     * _Number of Pizza_
+     * _Pizza Name_
+     * _Pizza Size_
+     * _Pizza AddOns_
+     * _Pizza Price_
+     
+     *Total Cost of All Orders
+    
