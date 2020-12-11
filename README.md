@@ -102,3 +102,9 @@ Kindly follow the given Instructions to avoid any errors:
     * Since the User is Logged In, I know his Details from the UserID. Since I already know it, I am asking the user _'For How Many Persons are you ordering ?'_
     * After selecting it, you have to _'give me a date'_ on when you would like to have your bulk order delivered by clicking on the '_Date Picker_' icon which will appear before the _Send Icon_ ; After selecting a Date, Kindly Click on 'Send' Icon or press 'Enter' Key.
     * You can notedown your __Bulk Order Request ID__ and we would call you back in the shortest time possible.
+    
+ * __Connect with us__:
+ 
+   > Customer Satisfaction is one of the most important key factors on running a business successfully
+  
+  * So, If you have any '_queries or issues_' regarding this appilcation usage
