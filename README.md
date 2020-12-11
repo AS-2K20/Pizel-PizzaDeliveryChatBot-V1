@@ -140,6 +140,8 @@ Kindly follow the given Instructions to avoid any errors:
    
    ## DataBase Screenshots:
    
+   ![DB6](https://user-images.githubusercontent.com/66553883/101897348-69407380-3bd0-11eb-916f-1e8fd204a10a.png)
+   
    ![DB1](https://user-images.githubusercontent.com/66553883/101896703-6002d700-3bcf-11eb-9485-c1eda65cb179.png)
 
    ![DB2](https://user-images.githubusercontent.com/66553883/101896824-90e30c00-3bcf-11eb-8346-710dc3708ed6.png)
