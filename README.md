@@ -81,7 +81,15 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
        * _AddOns which you would like to be added with your selected Pizza_
        * _Quantity of Selected Pizza_
        
-  * If you want to add more pizzas to your current Order, Click on _'Oh Yeah'_ button __**__ 
+  * If you want to add more pizzas to your current Order, Click on _'Oh Yeah'_ button __##__ 
   * If you are satisfied with the current order, Click on _'No Thanks, Proceed Next'_ button
+  * Then Your Order Pricing would be displayed. Here you can either _'Confirm'_ or _'Reset'_ your order by clicking on _'Thats Right'_ or _'Reset my Order'_ buttons.
+  * If you chose to _Reset_ your order, then you would be taken to _step 1 in Make a New Order_
+  * If you chose to _Confirm_ your order, it would ask you to confirm a Payment Method. In the further versions, I would be implementing a payment gateway for this application. But as of now _"Cash On Delivery(COD)"_ is the available payment method.
+    * Because of this only, 
+    
+      __##__ : You __can't__ able to add __more than 5 orders__ once !
+      
+       Since COD is the available option as of now, limiting the user to 5 orders would help us avoid the risk of _'CANCELLATION AT LAST MOMENT FOR A BULK ORDER'_
   
     
