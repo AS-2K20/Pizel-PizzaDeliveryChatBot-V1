@@ -31,6 +31,17 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  #### 7. User Name should contain minimum of 2 characters and no numbers.
  
  ## Features:
+ 
+ * The "__Key Feature__" of this application is, Inspite of many Validations, the User would be __Entering their Details__ "__only once__". 
+ 
+ * Upon Entering the details _correctly once_, User doesn't want to enter it again. 
+ 
+ * As your response, you can __either Click__ on the Available Buttons __or__ You can __type__ on the TextBox.
+ 
+ * You can type your response on the TextBox but __REMEMBER__ that you have to '__Type__' __ALL THE CHARACTERS WHICH ARE SHOWN in the GIVEN OPTONS__ to avoid errors.
+ 
+ * '__In Case Of Wrong Input(s)__' For Every Question, I am giving __1 Oppurtunity__ to give a correct and proper mentioned input. If not, It will take you to the first and foremost of the chat process.  
+ 
  ## Note:
  
  * Auto Focus or Auto Scroll is yet to implemented in this application. So, Kindly **SCROLL TO THE BOTTOM OF THE CHAT WINDOW USING SCROLL BAR to see the latest messages/chats**. This issue would be fixed in the next Version.   
