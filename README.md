@@ -116,3 +116,5 @@ Kindly follow the given Instructions to avoid any errors:
   * You have to click either '_Issue with Ordering Pizza_' or '_Issue with Ordered Pizza_'
   
    * Once you gave a connect request, we would be notified and we will call you in the _Shortest Time Possible_.
+   
+   __Upon Completion on any of these modules, You can chose either to Browse the Application by clicking 'Go Back To Main Menu' or If you plant to revisit us laters, kindly click on the option 'Log Out' and close the whole application window.__  
