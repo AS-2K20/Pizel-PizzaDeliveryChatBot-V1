@@ -41,7 +41,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  
 Kindly follow the given Instructions to avoid any errors:
 
-#### 1. City :
+##### 1. City :
 * Select any one among the given List of Cities (_Except 'Others'_)
 #### 2. SignUp Module: (If you would like, you can use an existing Login Credentials which is given below and you can skip this step !)
 * Enter any name(_Must be of atleast 2 characters_ ; preferably 10 charcters at maximum; space is allowed)
