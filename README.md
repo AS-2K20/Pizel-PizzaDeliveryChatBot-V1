@@ -90,9 +90,14 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
     
       __##__ : You __can't__ able to add __more than 5 orders__ once !
       
-       Since COD is the available option as of now, limiting the user to 5 orders would help us avoid the risk of _'CANCELLATION AT LAST MOMENT FOR BULK ORDERS'_
+       Since COD is the available option as of now, limiting the user to 5 orders would helps me to avoid the risk of _'CANCELLATION AT LAST MOMENT FOR BULK ORDERS'_
        
   * Kindly note down your __'Order ID'__
-    * This 'Order ID' is used to know your Ordered Items
+    * This 'Order ID' is used to know your Ordered Items with the Pricing Details in __Check My Order__
   
-    
+ * __Make Bulk Orders__:
+ 
+  * For Giving Bulk Orders or for Private Party Orders, You have to let us know. Thats the objective of this Module:
+   
+    * Since the User is Logged In, I know his Details from the UserID. Since I already know it, I am asking the user _'For How Many Persons are you ordering ?'_
+    * After selecting it, you have to _'give me a date'_ on when you would like to have your delivery by clicking on the '_Date Picker_' icon which will appear before the _Send Icon_
