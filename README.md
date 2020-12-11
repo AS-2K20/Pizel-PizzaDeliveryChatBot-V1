@@ -105,6 +105,6 @@ Kindly follow the given Instructions to avoid any errors:
     
  * __Connect with us__:
  
-   > Customer Satisfaction is one of the most important key factors on running a business successfully
+   > Customer Satisfaction is one of the most important key factors on running a business successfully !
   
-  * So, If you have any '_queries or issues_' regarding this appilcation usage
+  * " So, If you have any '_queries or issues_' regarding this appilcation usage, you can make a request to connect with us and we will respond to it ASAP "
