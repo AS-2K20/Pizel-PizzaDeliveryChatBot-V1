@@ -37,9 +37,9 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  
  * _Responsive Design_ would be implemented in the next Version. So, As of Now, Kindly _Access my application from a Desktop or a Laptop_
  
- ## Testing :
+ ## Instructions :
  
- For Testing Purposes, If you want to speed up the process of testing, then kindly follow the given Instructions:
+Kindly follow the given Instructions to avoid any errors:
 
 #### 1. City :
 * Select any one among the given List of Cities (_Except 'Others'_)
