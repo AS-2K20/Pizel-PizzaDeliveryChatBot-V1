@@ -143,4 +143,10 @@ Kindly follow the given Instructions to avoid any errors:
    ![DB1](https://user-images.githubusercontent.com/66553883/101896703-6002d700-3bcf-11eb-9485-c1eda65cb179.png)
 
    ![DB2](https://user-images.githubusercontent.com/66553883/101896824-90e30c00-3bcf-11eb-8346-710dc3708ed6.png)
+   
+   ![DB3](https://user-images.githubusercontent.com/66553883/101896994-dacbf200-3bcf-11eb-91ea-b2dc0a5c8fe8.png)
+
+   ![DB4](https://user-images.githubusercontent.com/66553883/101897095-0818a000-3bd0-11eb-83fe-ca15417238a8.png)
+   
+   ![DB5](https://user-images.githubusercontent.com/66553883/101897185-2a122280-3bd0-11eb-985d-f0d314a5f3eb.png)
 
