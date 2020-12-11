@@ -33,7 +33,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  ## Features:
  ## Note:
  
- * Auto Focus or Auto Scroll is yet to implemented in this application. So, Kindly **SCROLL TO THE BOTTOM OF THE CHAT WINDOW USING SCROLL BAR to see the latest messages/chats**. This issue would be fixed soon.   
+ * Auto Focus or Auto Scroll is yet to implemented in this application. So, Kindly **SCROLL TO THE BOTTOM OF THE CHAT WINDOW USING SCROLL BAR to see the latest messages/chats**. This issue would be fixed in the next Version.   
  
  * _Responsive Design_ would be implemented in the next Version. So, As of Now, Kindly _Access my application from a Desktop or a Laptop_
  
@@ -56,6 +56,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
 * Kindly Use the Above Credentials or the credentials which you have used in SignUp Module to _Login_
 * You can select any one among the given 4 options:
  * __Check My Order__:
+ 
    * You must _Make a New Order_ to get a Order ID ( or you can use an exisiting Order ID such as __72721__)
    * Once you entered a valid Order ID, the following details would be displayed:
      * All the Following Details would be displayed __Per 1 Order__
