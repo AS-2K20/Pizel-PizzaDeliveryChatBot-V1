@@ -99,7 +99,7 @@ Kindly follow the given Instructions to avoid any errors:
  
   * For Giving Bulk Orders or for Private Party Orders, You have to let us know. Thats the objective of this Module:
    
-    * Since the User is Logged In, I know his Details from the UserID. Since I already know it, I am asking the user _'For How Many Persons are you ordering ?'_
+    * Since you are Logged In, I know your Details from the UserID. Since I already know it, I am asking you _'For How Many Persons are you ordering ?'_
     * After selecting it, you have to _'give me a date'_ on when you would like to have your bulk order delivered by clicking on the '_Date Picker_' icon which will appear before the _Send Icon_ ; After selecting a Date, Kindly Click on 'Send' Icon or press 'Enter' Key.
     * You can notedown your __Bulk Order Request ID__ and we would call you back in the shortest time possible.
     
@@ -107,4 +107,12 @@ Kindly follow the given Instructions to avoid any errors:
  
    > Customer Satisfaction is one of the most important key factors on running a business successfully !
   
-  * " So, If you have any '_queries or issues_' regarding this appilcation usage, you can make a request to connect with us and we will respond to it ASAP "
+   " So, If you have any '_queries or issues_' regarding this appilcation usage, you can make a request to connect with us and we will respond to it ASAP "
+   
+   The above is the objective of this module:
+   
+  * (Like Bulk Orders, since I know the details of the User by their User ID) I am asking you directly and only about the Issue. 
+  
+  * You have to click either '_Issue with Ordering Pizza_' or '_Issue with Ordered Pizza_'
+  
+   * Once you gave a connect request, we would be notified and we will call you in the _Shortest Time Possible_.
