@@ -10,7 +10,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
 
 ## Demo :
 
- This Application is Hosted on <a href="https://aws.amazon.com/" target="_blank">Amazon AWS</a>You can run this application by clicking on : http://52.14.5.14/
+ This Application is Hosted on <a href="https://aws.amazon.com/" target="_blank">Amazon AWS. </a>You can run this application by clicking on : http://52.14.5.14/
  
 ## Validations:
 
