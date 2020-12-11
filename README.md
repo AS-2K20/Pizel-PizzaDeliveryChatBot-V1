@@ -81,7 +81,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
        * _AddOns which you would like to be added with your selected Pizza_
        * _Quantity of Selected Pizza_
        
-  * If you want to add more pizzas to your current Order, Click on _'Oh Yeah'_ button "**" 
+  * If you want to add more pizzas to your current Order, Click on _'Oh Yeah'_ button __**__ 
   * If you are satisfied with the current order, Click on _'No Thanks, Proceed Next'_ button
   
     
