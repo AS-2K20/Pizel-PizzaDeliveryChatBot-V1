@@ -33,7 +33,9 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  ## Features:
  ## Note:
  
- Auto Focus or Auto Scroll is yet to implemented in this application. So, Kindly **SCROLL DOWN THE SCROLL BAR TO THE BOTTOM to see the latest messages/chats**. This issue would be fixed soon.   
+ * Auto Focus or Auto Scroll is yet to implemented in this application. So, Kindly **SCROLL TO THE BOTTOM OF THE CHAT WINDOW USING SCROLL BAR to see the latest messages/chats**. This issue would be fixed soon.   
+ 
+ * _Responsive Design_ would be implemented in the next Version. So, As of Now, Kindly _Access my application from a Desktop or a Laptop_
  
  ## Testing :
  
@@ -63,5 +65,5 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
      * _Pizza AddOns_
      * _Pizza Price_
      
-     *Total Cost of All Orders
+     * Total Cost of All Orders
     
