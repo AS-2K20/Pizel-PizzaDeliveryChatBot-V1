@@ -46,7 +46,7 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
 #### 2. SignUp Module: (If you would like, you can use an existing Login Credentials which is given below and you can skip this step !)
 * Enter any name(_Must be of atleast 2 characters_ ; preferably 10 charcters at maximum; space is allowed)
 * Enter a _Exact_ 10 digit number.
-* Enter a sample email like <div>jd@gmail.com</div> or something (_EMAIL IS UNIQUE_ which means you cannot have 2 accounts with same email)
+* Enter a sample email like _jd@gmail.com_ or something (_EMAIL IS UNIQUE_ which means you cannot have 2 accounts with same email)
 * As of Now, Address doesn't have any validations. So you can enter some 'street name, city name - pincode' etc.
 * In the Next Step, If you want to change the address, you can do it else click on the button 'Yes, I confirm'. 
 * Create a ***User ID*** like **jd2K02 or saM1996 or gkK123** etc
@@ -90,6 +90,9 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
     
       __##__ : You __can't__ able to add __more than 5 orders__ once !
       
-       Since COD is the available option as of now, limiting the user to 5 orders would help us avoid the risk of _'CANCELLATION AT LAST MOMENT FOR A BULK ORDER'_
+       Since COD is the available option as of now, limiting the user to 5 orders would help us avoid the risk of _'CANCELLATION AT LAST MOMENT FOR BULK ORDERS'_
+       
+  * Kindly note down your __'Order ID'__
+    * This 'Order ID' is used to know your Ordered Items
   
     
