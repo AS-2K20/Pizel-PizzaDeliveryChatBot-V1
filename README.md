@@ -60,11 +60,11 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
    * You must _Make a New Order_ to get a Order ID ( or you can use an exisiting Order ID such as __72721__)
    * Once you entered a valid Order ID, the following details would be displayed:
      * All the Following Details would be displayed __Per 1 Order__
-      * _Number of Pizza_
-      * _Pizza Name_
-      * _Pizza Size_
-      * _Pizza AddOns_
-      * _Pizza Price_
+       * _Number of Pizza_
+       * _Pizza Name_
+       * _Pizza Size_
+       * _Pizza AddOns_
+       * _Pizza Price_
 
-      * Total Cost of All Orders
+       * Total Cost of All Orders
     
