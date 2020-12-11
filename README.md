@@ -36,11 +36,11 @@ Pizel is one of the cool chatbots which is developed for Ordering Pizzas. Pizel 
  
  * Upon Entering the details _correctly once_, User doesn't want to enter it again. 
  
- * As your response, you can __either Click__ on the Available Buttons __or__ You can __type__ on the TextBox.
+ * As a user response, user can __either Click__ on the Available Buttons __or__ user can __type__ on the TextBox.
  
- * You can type your response on the TextBox but __REMEMBER__ that you have to '__Type__' __ALL THE CHARACTERS WHICH ARE SHOWN in the GIVEN OPTONS__ to avoid errors.
+ * User can type their response on the TextBox but __REMEMBER__ that user have to '__Type__' __ALL THE CHARACTERS WHICH ARE SHOWN in the GIVEN OPTONS__ to avoid errors.
  
- * '__In Case Of Wrong Input(s)__' For Every Question, I am giving __1 Oppurtunity__ to give a correct and proper mentioned input. If not, It will take you to the first and foremost of the chat process.  
+ * '__In Case Of Wrong Input(s)__' For Every Question, I am giving __1 Oppurtunity__ to give a correct and proper mentioned input. If not, It will take the user to the first and foremost of the chat process.  
  
  ## Note:
  
@@ -57,9 +57,9 @@ Kindly follow the given Instructions to avoid any errors:
 #### 2. SignUp Module: (If you would like, you can use an existing Login Credentials which is given below and you can skip this step !)
 * Enter any name(_Must be of atleast 2 characters_ ; preferably 10 charcters at maximum; space is allowed)
 * Enter a _Exact_ 10 digit number.
-* Enter a sample email like _jd@gmail.com_ or something (_EMAIL IS UNIQUE_ which means you cannot have 2 accounts with same email)
-* As of Now, Address doesn't have any validations. So you can enter some 'street name, city name - pincode' etc.
-* In the Next Step, If you want to change the address, you can do it else click on the button 'Yes, I confirm'. 
+* Enter a sample email like _jd@gmail.com_ or something (_EMAIL IS UNIQUE_ which means user cannot have 2 accounts with same email)
+* As of Now, Address doesn't have any validations. So user can enter some 'street name, city name - pincode' etc.
+* In the Next Step, If the user want to change the address, the user can do it else click on the button 'Yes, I confirm'. 
 * Create a ***User ID*** like **jd2K02 or saM1996 or gkK123** etc
 * Create a ***Login Password*** like **jd@2K02 or saM@1996 or gkK@234** etc
 #### 3. Login Module:
