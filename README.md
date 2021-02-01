@@ -11,6 +11,8 @@ Pizel is one of the coolest chatbots which is developed for Ordering Pizzas. Piz
 ## Demo :
 
  This Application is Hosted on <a href="https://aws.amazon.com/" title="Amazon Web Services" target="_blank">AWS. </a>You can run this application by clicking on : http://52.14.5.14/
+
+## ** THIS LINK IS TEMPORARILY DOWN ** 
  
 ## Validations:
 
